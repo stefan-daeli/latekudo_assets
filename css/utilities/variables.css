@@ -1,0 +1,14 @@
+:root{
+    /* colors */
+    --co-primary:#3793CB;
+    --co-secondary: #BBBBBB;
+    --co-accent: #FFFFFF;
+    --co-primary-hover: #74ACCF;
+    --co-secondary-hover: #D1D1D6;
+    /* font sizes */
+    --fs-xl: 68.54px;
+    --fs-lg: 42.36px;
+    --fs-md: 26.18px;
+    --fs-sm: 16.18px;
+    --fs-xs: 10px;
+}

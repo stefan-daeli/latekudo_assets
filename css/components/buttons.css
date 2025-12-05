@@ -1,0 +1,73 @@
+.btn-xs{
+    height: 42.36px;
+    width: 68.54px;
+    font-size: 16.18px;
+    cursor: pointer;
+    
+}
+
+.btn-sm{
+    height: 42.36px;
+    width: 110.9px;
+    font-size: 16.18px;
+    cursor: pointer;
+}
+
+.btn-md{
+    height: 42.36px;
+    width: 179.44px;
+    font-size: 16.18px;
+    cursor: pointer;
+}
+
+.btn-lg{
+    height: 42.36px;
+    width: 290.33px;
+    font-size: 16.18px;
+    cursor: pointer;
+}
+
+.btn-xl{
+    height: 42.36px;
+    width: 469.75px;
+    font-size: 16.18px;
+    cursor: pointer;
+}
+
+.btn-primary{
+    background-color: var(--co-primary);
+    color: var(--co-accent);
+    border: none;
+    border-radius: 2px;
+    transition: all 0.3s ease;
+}
+
+.btn-primary:hover{
+    background-color: var(--co-primary-hover);
+}
+
+.btn-secondary{
+    background-color: var(--co-secondary);
+    color: var(--co-accent);
+    border: none;
+    border-radius: 2px;
+    transition: all 0.3s ease;
+}
+
+.btn-secondary:hover{
+    background-color: var(--co-secondary-hover);
+}
+
+.btn-accent{
+    background-color: var(--co-accent);
+    color: var(--co-primary);
+    border: 0.5px solid var(--co-primary);
+    border-radius: 2px;
+    transition: all 0.3s ease;
+}
+
+.btn-accent:hover{
+    background-color: var(--co-primary);
+    color: var(--co-accent);
+    border: none;
+}

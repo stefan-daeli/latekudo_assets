@@ -1,0 +1,36 @@
+.is-sm {
+    width: 290.33px;
+    height: 42.36px;
+    padding-left: 10px;
+    font-size: 16.18px;
+    outline: none;
+    border-radius: 2px;
+}
+
+.is-md {
+    width: 469.75px;
+    height: 42.36px;
+    padding-left: 10px;
+    font-size: 16.18px;
+    outline: none;
+    border-radius: 2px;
+}
+
+.is-lg {
+    width: 760.06px;
+    height: 42.36px;
+    padding-left: 10px;
+    font-size: 16.18px;
+    outline: none;
+    border-radius: 2px;
+}
+
+.br-primary {
+    border: 0.5px solid var(--co-primary);
+
+}
+
+.br-secondary {
+    border: 0.5px solid var(--co-secondary);
+
+}

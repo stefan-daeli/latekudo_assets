@@ -1,0 +1,26 @@
+.co-primary{
+    color: var(--co-primary);
+}
+
+.co-secondary{
+    color: var(--co-secondary);
+}
+
+.co-accent{
+    color: var(--co-accent);
+}
+
+.bg-primary{
+    background-color: var(--co-primary);
+    color: var(--co-accent);
+}
+
+.bg-secondary{
+    background-color: var(--co-secondary);
+    color: var(--co-accent);
+}
+
+.bg-accent{
+    background-color: var(--co-accent);
+    color: #000000;
+}
